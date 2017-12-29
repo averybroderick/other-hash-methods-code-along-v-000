@@ -10,5 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
-  groceries.values.join(" ").split(",")
+  groceries.values.join(" ").split(" ")
 end
